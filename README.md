@@ -4,7 +4,9 @@ Nesse repositório você encontra um dos projetos do curso Java COMPLETO Program
 
 Cadastro/Edição/Exclusão de vendedores
 Cadastro/Edição/Exclusão de departamentos
+
 🛠️ Ferramentas
+
 Eclipse 2020-03 R (4.15)
 Java JDK 8u261
 JavaFX JDK 11.0.2
